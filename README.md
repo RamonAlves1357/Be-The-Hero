@@ -1,6 +1,5 @@
 <h4 align="center">
-<img src="./img/logo3x.png" width="250px" /><br>
- <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
+Seja um verdadeiro Heroi! 🦸‍♂️🦸‍♀️
 </h4>
 <p align="center">
   <a href="https://rocketseat.com.br">
@@ -12,7 +11,7 @@
 <br>
 
 ### :rocket: Tecnologias usadas
-Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
+Este projetinho foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
